@@ -1,0 +1,55 @@
+/* styles.css */
+.stopwatch {
+    text-align: center;
+    font-size: 36px;
+    color: aliceblue;
+    font-weight: bold;
+    margin: 120px;
+
+    /* width: 80%; Adjust the width as needed */
+    padding: 25px; 
+    text-align: center;
+    background-color: #0B2447; /* Background color for the centered division */
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.2); /* Shadow effect */
+    /* background-image: url('Back.jpg'); */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.time {
+    margin-bottom: 10px;
+}
+
+button {
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 15px;
+
+    text-align: center;
+    color: white;
+    background-color: #053B50;
+    border: #053B50;
+    cursor: pointer;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    border-radius: 5%;
+    
+}
+
+#laps {
+    text-align: left;
+    margin-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+/* styles.css */
+body {
+  
+    background-image: url(back.jpg);
+}
+
+
+
+
+
+
